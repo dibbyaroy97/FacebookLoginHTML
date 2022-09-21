@@ -1,0 +1,89 @@
+body {
+    background: #F0F2F5;
+    font-family: SFProText-Medium, Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.facebook {
+    margin-top: 10%;
+}
+
+.left h2 {
+    color: #1877F2;
+    font-size: 55px;
+    font-weight: bolder;
+}
+
+
+
+.left h5 {
+    font-size: 28px;
+    font-weight: normal;
+    width: 500px;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    line-height: 32px;
+}
+
+.login form {
+    text-align: center;
+    width: 400px;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.login input {
+	border-radius: 7px;
+	padding: 25px 16px;
+    border: 1px solid #dddfe2;
+}
+
+
+.login input[placeholder] {
+    font-size: 17px;
+    font-weight: normal;
+    color: #C3C6CA;
+    opacity: .5;
+
+}
+
+.login .btn-primary {
+    display: block;
+
+    width: 100%;
+    border-radius: 7px;
+    padding: 8px 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.login .btn-warning {
+    background: #36A420;
+    border: 1px solid #36A420;
+    color: aliceblue;
+    font-size: 17px;
+    font-weight: bold;
+    padding: 10px 15px;
+    border-radius: 7px;
+    text-transform: capitalize;
+}
+
+.login a {
+	font-size: 15px;
+	text-align: center;
+	margin-top: 15px;
+	display: inline-block;
+}
+
+.login p {
+	margin-left: 40px;
+    display: inline-block;
+    font-size: 15px;
+}
+
+.login p a{
+    color: #222;
+    font-weight: bold;
+    font-size: 15px;
+}
+
